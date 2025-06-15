@@ -135,7 +135,7 @@ light orange - #F3A26D
     background-image: linear-gradient(to right, rgba(0, 128, 157, 0), rgba(0, 128, 157, 0.75), rgba(0, 128, 157, 0));
 }
 
-#about-block h1 {
+h1 {
     font-size: 48px;
 }
 
